@@ -1,0 +1,8 @@
+name=input("Enter your Name:")
+rollno=input("Enter your Rollno:")
+fee=input("Enter your Fee's:")
+gender=input("Enter your Gender:")
+print(type(name))
+print(type(rollno))
+print(type(fee))
+print(type(gender))

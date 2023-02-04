@@ -1,0 +1,8 @@
+name=input("Enter Your Name=")
+rollno=int(input("Enter Your Rollno="))
+gender=input("Enter Your Gender=")
+fee=float(input("Enter Your Fee="))
+print(type(name))
+print(type(rollno))
+print(type(gender))
+print(type(fee))
