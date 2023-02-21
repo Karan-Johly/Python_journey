@@ -1,0 +1,12 @@
+from numpy import * 
+# arr=np.random.randint(1,100,30)
+arr=array([1,2,3,4,5,5,6,7,8,5])
+arr=arr.reshape(2,5)
+print(arr)
+# print(arr.ndim())
+# arr=arr.reshape(30)
+# print(arr)
+# print(arr.ndim)
+# arr=arr.reshape(2,3,5)
+# print(arr)
+# print(arr.ndim)

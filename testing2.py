@@ -1,8 +1,4 @@
-dict={0:33,1:33,2:78,3:89,4:65,5:33}
-print(dict)
-for i in range(5):
-    for j in range(5):
-        if dict[i-1] == dict[j-1]:
-            r=dict.pop(i)
-            print(r)
-print(dict)
+import numpy as np
+arr=np.array([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15])
+# b=arr[arr%2==0] = 0
+print()
